@@ -19,7 +19,7 @@ Muito interessante, temos um arquivo oculto, mas onde estará este arquivo pass-
 O meu primeiro passo foi inspecionar a página do site e verificar no fonte se encontrava algum arquivo com este nome. Até encontrei vários arquivos, como sempre, vários e vários arquivos javascript, mas não encontrei nada.
 Partir para testar a URL e no primeiro momento usei https://capturetheflag.com.br/challenge/crypto/pass-.txt mas não funcionou :(
 
-Conhece algum hacker que desiste fácil? Eu não! Vamos continuar testando ... Fiz um novo teste, agora modificando a URL retirando o /crypto https://capturetheflag.com.br/challenge/pass-.txt e olha o que encontramos :-)
+Conhece algum hacker que desiste fácil? Eu não! Vamos continuar testando ... Fiz um novo teste, agora modificando a URL retirando o ```/crypto``` https://capturetheflag.com.br/challenge/pass-.txt e olha o que encontramos :-)
 
 ![screenshot](/challenges/easy/crypto/img/save_file.png)
 
@@ -44,12 +44,14 @@ Com essas informações, partimos para quebrar essa criptografia de César. Segu
 Sentir que estava muito próximo de conseguir resolver este desafio e assim obter a flag.
 Diante da informação de que se tratava de cifra de Vegenere, partimos para quebrar mais essa também.
 
-![screenshot](/challenges/easy/crypto/img/vegenere.png)
-
-PS: Precisei realizar vários testes até conseguir, porque logo de início não conseguir entender qual seria o texto necessario para quebrar essa cifra, até entender que seria ``` ekdrmtjl ```
+PS: Precisei realizar vários testes até conseguir, porque logo de início não conseguir entender qual seria o texto necessario para quebrar essa cifra, até entender que seria ``` ekdrmtjl ```.
 
 ![screenshot](/challenges/easy/crypto/img/key.png)
 
-E BINGoO !! Flag conquistada.
+Após isso conseguir quebrar a cifra e encontrar a flag ```cryptohs ```.
+
+![screenshot](/challenges/easy/crypto/img/vegenere.png)
+
+E BINGoO. Flag!!
 
 ![screenshot](/challenges/easy/crypto/img/flag.png)
