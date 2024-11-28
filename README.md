@@ -1,13 +1,26 @@
-# <h1 align="center">CTF HackerSec</h1>
+# [CTF] HackerSec
 
-![screenshot](hackersec.png)
+![screenshot](assets/img/hackersec.png)
 
 *Resoluções de desafios e máquinas na plataforma da hackersec.
 Iniciarei pelos desafios de nivel iniciante (o primeiro passo é sempre pelo primeiro degrau!), intermediário e avançado, depois seguirei para resolução das máquinas ao longo do tempo.*
 
-## Write-ups
-
-### Desafios
+## [Write-ups]
 - [Level-1](/challenges/level-1/crypto/)
   - betterLook
   - Crypto
+  - StartTech
+  - Noob
+  - WhatLogs
+  - Password
+  - Maps
+  - Telegrafo
+  - xXcurlXx
+  - Brain
+  - Cesar0
+  - HackedLocalDatabase
+  - authUpgrade
+  - Cors
+  - DevFail
+  - RunPython
+  - Snack
