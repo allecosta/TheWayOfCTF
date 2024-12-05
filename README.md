@@ -9,6 +9,7 @@ Iniciarei pelos desafios de nivel iniciante (o primeiro passo é sempre pelo pri
 - [Level-1](/challenges/level-1/crypto/)
   - betterLook
   - Crypto
+  - Meta
   - StartTech
   - Noob
   - WhatLogs
