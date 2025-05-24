@@ -17,7 +17,7 @@ mon.txt -t 4 --delay 1s -o scan_directory.txt```*
 
 *Note que o desafio cita que é necessário conhecimento básico de comandos UNIX, foi baseado nisto que resolvi realizar novamente, alguns testes no input view.*
 
-*Pense bem! Se ao digitar um determinado ano, o campo me retornou um calendario, pensei, e se, passar no input um outro comando separado do qual me retornasem outras informações? foi aí que iniciei vários testes, como por exemplo:*
+*Pense bem! Se ao digitar um determinado ano, o campo me retornou um calendario, pensei, e se, passar no input um outro comando separado do qual me retornassem outras informações? foi aí que iniciei vários testes, como por exemplo:*
 
 
 ```
@@ -31,11 +31,11 @@ cal 2025 && ls
 
 *Agora acho que estamos no caminho :-)* 
 
-*Fui logo testando o level7.php e nada, recebi a seguinte mensagem:*
+*Fui logo testando o ```level7.php``` e nada, recebi a seguinte mensagem:*
 
 ![screenshot](/hackthissite/basic/7/img/message7.png)
 
-*Partir então para o k1kh31b1n55h.php e voilá, encontrei a senha!*
+*Partir então para o ```k1kh31b1n55h.php``` e voilá, encontrei a senha!*
 
 ![screenshot](/hackthissite/basic/7/img/pass7.png)
 
