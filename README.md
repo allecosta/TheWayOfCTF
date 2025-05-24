@@ -1,9 +1,9 @@
 # TheWayOfCTF
 
-*Resoluções de desafios e máquinas de CTF (capture the flag) na HackerSec, TryHackMe e OverTheWire.*
+*Resoluções de desafios e máquinas de CTF (capture the flag) na HackerSec, TryHackMe e HackThisSite.*
 
 ## [HackerSec]
-  - [Beginner](/beginner/)
+  - [Beginner](/hackersec/challenges/beginner/)
     - betterLook
     - Crypto
     - meta
@@ -18,6 +18,10 @@
   - ```Machines``` - WelcomeCTF, Admin Noob Machine, Admin Noob Machine 2 e Admin Noob Machine 3.
 
 *Terminando na 66º lugar com 620 ponto no total.*
+
+## [HackThisSite]
+  - [Basic](/hackthissite/basic/)
+    - Level 7
 
 ## [TryHackMe]
 ### ROADMAP
@@ -109,6 +113,7 @@
 ## Plataformas
 - [HackerSec](https://hackersec.com/ctf/)
 - [TryHackMe](https://tryhackme.com)
+- [HackThisSite](https://www.hackthissite.org/)
 
 
   
