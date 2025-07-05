@@ -17,11 +17,12 @@
 
   - ```Machines``` - WelcomeCTF, Admin Noob Machine, Admin Noob Machine 2 e Admin Noob Machine 3.
 
-*Terminando na 66º lugar com 620 ponto no total.*
+*Terminando na 66º lugar com 620 pontos no total.*
 
 ## [HackThisSite]
   - [Basic](/hackthissite/basic/)
     - Level 7
+    - Level 8
 
 ## [TryHackMe]
 ### ROADMAP
