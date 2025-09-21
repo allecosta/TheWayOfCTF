@@ -23,6 +23,7 @@
   - [Basic](/hackthissite/basic/)
     - Level 7
     - Level 8
+    - Level 10
 
 ## [TryHackMe]
 ### ROADMAP
